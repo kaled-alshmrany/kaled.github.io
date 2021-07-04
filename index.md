@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Kaled Alshmrany
 
-You can use the [editor on GitHub](https://github.com/kaled-alshmrany/kaled.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Kaled Alshmrany is a PhD candidate at The University of Manchester and a Faculty Member at The Institute of Public Administration (IPA), Saudi Arabia. He is a lead developer of the tool FuSeBMC.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
